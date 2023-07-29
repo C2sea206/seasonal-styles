@@ -33,8 +33,8 @@ $("document").ready(function () {
         $("#logo").attr("src", "images/winter.gif");
         break;
       case "default":
-        $("html").css("background-color", "pink");
-        $("#slogan").text("Spring into our Seasonal wear!");
+        $("html").css("background-color", "light-grey");
+        $("#slogan").text("Outfitter for All Seasons!");
         $("#wear").attr("src", "images/300x400.png");
         $("#logo").attr("src", "images/four-seasons.gif");
         break;
